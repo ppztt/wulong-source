@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 与 ic_launcher 图形的底色保持一致，自适应图标的前景层是透明 PNG -->
+    <color name="ic_launcher_background">#00C48E</color>
+</resources>
